@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MindAstra - You Are Not Alone</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f0f4f8;
+      color: #333;
+    }
+    header {
+      background: #3f51b5;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    nav {
+      background: #303f9f;
+      text-align: center;
+      padding: 1rem;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+    }
+    section {
+      padding: 2rem;
+    }
+    .card {
+      background: white;
+      margin-bottom: 1.5rem;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #3f51b5;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>MindAstra</h1>
+  <p>Student Support & Suicide Prevention Initiative</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#help">Get Help</a>
+  <a href="#stories">Stories</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <div class="card">
+    <h2>About MindAstra</h2>
+    <p>MindAstra is an initiative to support students battling stress, anxiety, and depression. Our goal is to spread awareness and offer hope — because every life matters.</p>
+  </div>
+</section>
+
+<section id="help">
+  <div class="card">
+    <h2>Get Help Now</h2>
+    <ul>
+      <li><strong>AASRA (India):</strong> 91-9820466726</li>
+      <li><strong>iCall (TISS):</strong> +91-9152987821</li>
+      <li><strong>Vandrevala Foundation:</strong> 1860 2662 345</li>
+    </ul>
+    <p>You are not alone. Reach out. Talk to someone. Your life is valuable.</p>
+  </div>
+</section>
+
+<section id="stories">
+  <div class="card">
+    <h2>Real Stories</h2>
+    <p>Coming soon: Read inspiring recovery journeys shared by students like you.</p>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="card">
+    <h2>Contact Us</h2>
+    <p>Email: support@mindastra.org (placeholder)</p>
+    <p>Want to contribute or volunteer? Get in touch!</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 MindAstra. All rights reserved.</p>
+</footer>
+
+</body>
+  </html>

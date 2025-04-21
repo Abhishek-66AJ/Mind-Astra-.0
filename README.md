@@ -1,1 +1,0 @@
-# Mind-Astra-.0
